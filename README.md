@@ -9,7 +9,7 @@
 
 
 ## :hourglass: Result
-:movie_camera: <img src="https://github.com/Snehal-Singh174/File-Upload-In-Flutter-Web/blob/main/output/file_upload.png" width="200"/>
+:movie_camera: <img src="https://github.com/Snehal-Singh174/File-Upload-In-Flutter-Web/blob/main/output/file_upload.png" width="600"/>
 
 ## 📝 Blog to Refer
 
